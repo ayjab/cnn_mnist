@@ -1,5 +1,5 @@
 # cnn_mnist
-A simple CNN model for the MNIST dataset developed during a school project.The details of the model can be found in _main.py_. The project includes the creation of an Android app using Android Studio to deploy and test the model. The final result is available as _application.apk_.
+A simple CNN model for the MNIST dataset developed during a school project. The details of the model can be found in _main.py_. The project includes the creation of an Android app using Android Studio to deploy and test the model. The final result is available as _application.apk_.
 
 ### Requirements
 ```
