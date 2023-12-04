@@ -1,5 +1,5 @@
 # cnn_mnist
-A simple CNN model for MNIST dataset done during a school project. Creation of an Android app using Android Studio for deploying and testing the model. The final result is "application.apk".
+A simple CNN model for the MNIST dataset developed during a school project. The project includes the creation of an Android app using Android Studio to deploy and test the model. The final result is available as _application.apk_.
 
 ### Requirements
 ```
