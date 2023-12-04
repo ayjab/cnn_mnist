@@ -12,7 +12,7 @@ git clone https://github.com/ayjab/cnn_mnist.git
 cd C:\Users\user\cnn_mnist
 python main.py
 ```
-### Deployement using Android Studio
+### Deployment 
 The source files for the Android application can be found here: [Source files of the apk app](https://drive.google.com/file/d/1YT3rnnXD22ccCsNOv9bi2RAxtlY8v_6Z/view?usp=sharing).<br>
 The final apk file is _application.apk_ can be directly installed on an Android device.
 
