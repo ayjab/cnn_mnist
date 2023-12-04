@@ -13,6 +13,8 @@ cd C:\Users\user\cnn_mnist
 python main.py
 ```
 ### Deployement using Android Studio
-The source files for the Android application are to be found here: [Source files of the apk app]([https://pages.github.com/](https://drive.google.com/file/d/1YT3rnnXD22ccCsNOv9bi2RAxtlY8v_6Z/view?usp=sharing))
+The source files for the Android application are to be found here: [Source files of the apk app](https://drive.google.com/file/d/1YT3rnnXD22ccCsNOv9bi2RAxtlY8v_6Z/view?usp=sharing).
 The final apk file is application.apk that can be installed directly on an Android device.
+
+
 
